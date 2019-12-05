@@ -38,6 +38,7 @@ public class Feltet {
         new Feltet("Kolbász", 100),
         new Feltet("Sonka", 80),
         new Feltet("Sajt", 80),
-        new Feltet("Uborka", 40)
+        new Feltet("Uborka", 40),
+        new Feltet("Mozarella", 120)
     };
 }
